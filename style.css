@@ -1,0 +1,30 @@
+body {
+    background-color: #888e91;
+}
+
+#title{
+	margin-left: 130px;
+    color: #162988;
+     width: 500px;
+}
+
+.content{
+	width: 100%;
+	height:100%;
+}
+
+.title{
+	color: #9b1515;
+    font-style: italic;
+}
+
+.text{
+    width: 500px;
+    height: 100%;
+
+}
+
+.img{
+	width: 500px;
+    margin-top: 10px;
+}
